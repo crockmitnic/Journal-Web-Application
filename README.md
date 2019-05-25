@@ -1,7 +1,8 @@
 ## Introduction
 
-This web application can be used as an option of typical **Journal book**. This application provides simple User Interface to put you in ease of use.
-It has _**md5 encryption**_ to store user credentials in order to make it safe and secure.
+This web application can be used as an option of typical **Journal book**. Here are some glimpses of highlighted points of this application:
+* This application provides simple User Interface to put you in ease of use.
+* It has _**md5 encryption**_ to store user credentials in order to make it safe and secure. 
 
 ### Markdown
 

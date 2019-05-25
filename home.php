@@ -15,7 +15,7 @@ session_start();
         <link rel="stylesheet" href="Bootstrap-4/css/bootstrap.min.css">
         <link rel="stylesheet" href="style.css">
 
-        <title>Dashbord</title>
+        <title>Dashboard</title>
     </head>
 
     <body>

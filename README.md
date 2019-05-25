@@ -1,9 +1,12 @@
 ## Introduction
 
-This web application can be used as an option of typical **Journal book**. 
+This application is made for everyone who is accustomed to keep record of daily expenses. This application can be used as an option of typical **Journal book**.
+
+### Why to use Journal-Web-Application?
 Here are some glimpses of highlighted points of this application:
-* This application provides simple User Interface to put you in ease of use.
-* It has _**md5 encryption**_ to store user credentials in order to make it safe and secure. 
+* Simple User Interface to put you in ease of use.
+* _**md5 encryption**_ to store user credentials in order to make it safe and secure. 
+* Daily(or monthly) expense visualization on graphs for making expenses visual
 
 ### Markdown
 

@@ -3,38 +3,24 @@
 This application is made for everyone who is accustomed to keep record of daily expenses. This application can be used as an option of typical **Journal book**.
 
 ### Why to use Journal-Web-Application?
-Here are some glimpses of highlighted points of this application:
+Here is Why:
 * Simple User Interface to put you in ease of use.
 * _**md5 encryption**_ to store user credentials in order to make it safe and secure. 
 * Daily(or monthly) expense visualization on graphs for making expenses visual
 
-### Markdown
+### Glimpses of Journal-Web-Application
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **Login** or **Sign up** page
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/42318209/58369318-585cde00-7f16-11e9-9686-06e968575794.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* Dashboard
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/42318209/58369339-abcf2c00-7f16-11e9-824d-5efbc6162016.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RushitSaliya/Journal-Web-Application/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

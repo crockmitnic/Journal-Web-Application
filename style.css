@@ -1,0 +1,344 @@
+.heading-index {
+    background-image: linear-gradient(#660000, #800000);
+}
+
+.heading-text {
+    margin-left: 8%;
+    padding: 2% 0% 2% 0%;
+    color: #fff;
+}
+
+.description-text {
+    padding-top: 5%;
+    padding-left: 5%;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.signup-column {
+    padding-right: 0.5%;
+}
+
+.signin-column {
+    padding-left: 0.5%;
+}
+
+/* sign-in card modification for sign-in page */
+.signin-card, .signup-card {
+    margin-top: 15%;
+    padding: 3% 10%;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #800000;
+    width: 85%;
+    height: 80%;
+}
+
+.signup-card {
+    float: right;
+}
+
+.inverted-img {
+    filter: brightness(0) invert(1);
+}
+
+.signin-title, .signup-title {
+    text-align: center;
+    font-size: 38px;
+    margin: 5% 0%;
+    color: #800000;
+}
+
+.signup-title {
+    margin: 0% 0%;
+}
+
+.signin-input {
+    padding: 8% 5%;
+}
+
+.signin-btn {
+    text-align: center;
+}
+
+.signin-btn button {
+    padding: 3% 10%;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: #800000;
+    border-color: #800000;
+}
+
+/* ####################### Home.php ####################### */
+
+.navbar.bg-light {
+    width: 100%;
+    background-color: #800000!important;
+}
+
+/* Manual color for navbar-brand, activated nav-link and nav-link's focused state */
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link:focus {
+    color: #fff;
+    font-size: 18px;
+}
+
+.navbar-light .navbar-brand {
+    font-size: 30px;
+}
+
+/* For changing nav-link's default color from #000 to #bfbfbf */
+.navbar-light .navbar-nav .nav-link {
+    color: #bfbfbf;
+}
+
+/* For changing default hovering effect color from #000 to #fff */
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+}
+
+/* Hovering efect for navbar-brand */
+.navbar-light .navbar-brand:hover{
+    color: #fff;
+    font-weight: 500;
+}
+
+.border {
+    padding: 0px 10px;
+    border: 1.5px solid!important;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.table-column {
+    padding-top: 0.5%;
+    padding-right: 0.4%;
+    padding-left: 1%;
+}
+
+/* For changning default table-hover's hover background-color from #e6e6e6 to #ffcccc */
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #ffe6e6;
+}
+
+.card-column {
+    padding-top: 0.5%;
+    padding-left: 1%;
+}
+
+.action-panel-column {
+    padding: auto;
+}
+
+.display-card {
+    text-align: center;
+    border-color: #800000;
+}
+
+.card-header:first-child {
+    border-color: #800000;
+}
+
+.table {
+    border: 1px solid #800000;
+}
+
+.table > thead > tr > th {
+    border: 1px solid #800000;
+}
+
+
+.action-card {
+    margin-top: 3%;
+}
+
+.btn-action {
+    padding: 2% 5%;
+    width: 45%;
+    background-color: #800000;
+    border-color: #800000;
+}
+
+.btn-delete {
+    padding: 2% 5%;
+    width: 50%;
+    background-color: #800000;
+    border-color: #800000;
+}
+
+/* ####################### addRecord.php ####################### */
+
+.addRecord-card {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 2% 16%;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #800000;
+}
+
+.addRecord-title {
+    text-align: center;
+    padding: 2% 0%;
+    color: #800000;
+}
+
+.home-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.radio-btn {
+    text-align: center;
+    float: left;
+    padding-left: 2px; 
+}
+
+.radio-btn-card {
+    padding: 0.8rem;
+    text-align: center;
+    width: 420.3px;
+}
+
+.save-btn {
+    text-align: center;
+}
+
+.save-btn button {
+    padding: 2% 10%;
+    font-weight: 300;
+    font-size: 20px;
+    background-color: #800000;
+    border-color: #800000;
+}
+
+.back-arrow-item {
+    margin: auto;
+}
+
+.navbar-brand-customized, .navbar-brand-customized:hover {
+    text-decoration: none;
+    color: #fff;
+    font-size: 28px;
+}
+
+/* ####################### statistics.php ####################### */
+.activated-link {
+    color: #800000!important;
+    background-color: #fff;
+    font-size: 18px;
+    border: 1px solid #800000;
+    border-radius: 8px;
+    padding: 0px 2px;
+}
+
+.selected-nav-item {
+    padding: 2% 0%;
+}
+
+.graph-canvas {
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+
+.canvas-heading {
+    text-align: center;
+    color: #800000;
+    font-size: 250%;
+    padding-top: 15%;
+}
+
+/* ####################### contactUs.php ####################### */
+
+.contactUs-card {
+    margin-top: 7%;
+    margin-bottom: 4%;
+    padding: 7% 16%;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #800000;
+}
+
+.contactUs-title {
+    text-align: center;
+    padding: 2% 0%;
+    color: #800000;
+}
+
+.btn-send-message {
+    margin-top: 2.3%;
+}
+
+/* ####################### aboutUs.php ####################### */
+.aboutUs-title {
+    text-align: center;
+    color: #800000;
+    padding-top: 3%;
+}
+
+.team-card {
+    margin-bottom: 50%;
+    padding: 4%;
+}
+
+.team-card:hover {
+    box-shadow: 14px 13px 15px -5px rgba(0,0,0,0.75),  -13px -10px 69px -52px rgba(0,0,0,0.75);
+}
+
+.team-div {
+    padding-top: 10%;
+}
+
+.team-img {
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+}
+
+.team-member-name {
+    margin-left: auto;
+    margin-right: auto;
+    color: #800000;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    font-weight: 330;
+    font-size: 35px;
+}
+
+.team-member-description, .team-member-skill {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1% 3% 3% 1%;
+    font-size: 20px;
+}
+
+.team-member-skill {
+    font-style: oblique;
+    padding: 1% 0%;
+    font-size: 18px;
+}
+
+/* ####################### estimation.php ####################### */
+
+
+/* ####################### Mobile version ####################### */
+
+@media only screen and (max-width: 600px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+
+    .description-text {
+        font-size: 18px;
+    }
+
+    .heading-4 {
+        padding-top: 12%;
+        font-size: 40px;
+    }
+
+
+}

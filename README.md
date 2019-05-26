@@ -37,7 +37,7 @@ For setting the datanase you need to follow following steps:
   - Structure of table "**record**":
   ![ss](https://user-images.githubusercontent.com/42318209/58377700-242ffe80-7fa4-11e9-8f76-f6ef8b383869.png)
 
-**After setting up all the steps describing above you're ready to go!**
+**After setting up all the steps describing above, you're ready to go!**
 
 ### Glimpses of Journal-Web-Application
 

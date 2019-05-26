@@ -21,15 +21,15 @@ Since this web application is not published yet you should do some additional ta
 
 For setting the datanase you need to follow following steps:
 
-1. Your default **root** account should be secured with password "**@root**"
+- Your default **root** account should be secured with password "**@root**"
 
   ![ss](https://user-images.githubusercontent.com/42318209/58377603-082b5d80-7fa2-11e9-88e6-dbce5c8fce01.png)
 
-2. Create a database and name it "**users**". After creating database make two tables into it i.e., "**account**" and "**record**".
+- Create a database and name it "**users**". After creating database make two tables into it i.e., "**account**" and "**record**".
 
   ![ss](https://user-images.githubusercontent.com/42318209/58377641-cbac3180-7fa2-11e9-8f0f-b0fcd1f068f3.png)
 
-3. Make both table structures as follows:
+- Make both table structures as follows:
 
   - Structure of table "**account**":
   ![ss](https://user-images.githubusercontent.com/42318209/58377677-bbe11d00-7fa3-11e9-889e-53132035183a.png)

@@ -4,9 +4,40 @@ This application is made for everyone who is accustomed to keep record of daily 
 
 ### Why to use Journal-Web-Application?
 Here is Why:
-* Simple User Interface to put you in ease of use.
-* _**md5 encryption**_ to store user credentials in order to make it safe and secure. 
+* Simple User Interface to put you in ease of use
+* _**md5 encryption**_ to store user credentials in order to make it safe and secure 
 * Daily(or monthly) expense visualization on graphs for making expenses visual
+
+## Getting Started
+
+Since this web application is not published yet you should do some additional tasks in order to use it. These are the steps to make this web application work:
+
+### Prerequisites
+* XAMPP server should be installed to your local machine
+* phpMyAdmin setup is needed for database support (Though it comes hand in hand with XAMPP)
+* Default port (port: 80) should be free to access localhost
+
+### Setting up database
+
+For setting the datanase you need to follow following steps:
+
+1. Your default **root** account should be secured with password "**@root**"
+
+  ![ss](https://user-images.githubusercontent.com/42318209/58377603-082b5d80-7fa2-11e9-88e6-dbce5c8fce01.png)
+
+2. Create a database and name it "**users**". After creating database make two tables into it i.e., "**account**" and "**record**".
+
+  ![ss](https://user-images.githubusercontent.com/42318209/58377641-cbac3180-7fa2-11e9-8f0f-b0fcd1f068f3.png)
+
+3. Make both table structures as follows:
+
+  - Structure of table "**account**":
+  ![ss](https://user-images.githubusercontent.com/42318209/58377677-bbe11d00-7fa3-11e9-889e-53132035183a.png)
+  
+  - Structure of table "**record**":
+  ![ss](https://user-images.githubusercontent.com/42318209/58377700-242ffe80-7fa4-11e9-8f76-f6ef8b383869.png)
+
+**After setting up all the steps describing above you're ready to go!**
 
 ### Glimpses of Journal-Web-Application
 

@@ -6,7 +6,7 @@ This application is made for everyone who is accustomed to keep record of daily 
 Here is Why:
 * Simple User Interface to put you in ease of use
 * _**md5 encryption**_ to store user credentials in order to make it safe and secure 
-* Daily(or monthly) expense visualization on graphs for making expenses visual
+* Daily (or monthly) expense visualization on graphs for making expenses visual
 
 ## Getting Started
 

@@ -41,7 +41,7 @@ For setting the database you need to follow following steps:
 
 ### Glimpses of Journal-Web-Application
 
-* **Sign up** and **Sign in** page
+* **Index** page
 
 ![image](https://user-images.githubusercontent.com/42318209/58369318-585cde00-7f16-11e9-9686-06e968575794.png)
 

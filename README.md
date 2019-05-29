@@ -19,7 +19,7 @@ Since this web application is not published yet you should do some additional ta
 
 ### Setting up database
 
-For setting the datanase you need to follow following steps:
+For setting the database you need to follow following steps:
 
 - Your default **root** account should be secured with password "**@root**"
 
@@ -41,7 +41,7 @@ For setting the datanase you need to follow following steps:
 
 ### Glimpses of Journal-Web-Application
 
-* **Login** or **Sign up** page
+* **Sign up** and **Sign in** page
 
 ![image](https://user-images.githubusercontent.com/42318209/58369318-585cde00-7f16-11e9-9686-06e968575794.png)
 

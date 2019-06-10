@@ -1,3 +1,4 @@
+# Journal-Web-Application
 ## Introduction
 
 This application is made for everyone who is accustomed to keep record of daily expenses. This application can be used as an option of typical **Journal book**.

@@ -1,4 +1,5 @@
 # Journal-Web-Application
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ## Introduction
 
 This application is made for everyone who is accustomed to keep record of daily expenses. This application can be used as an option of typical **Journal book**.

@@ -1,5 +1,5 @@
 .heading-index {
-    background-image: linear-gradient(#660000, #800000);
+    background-image: linear-gradient(#660000, #001780);
 }
 
 .heading-text {
@@ -29,7 +29,7 @@
     padding: 3% 10%;
     border-width: 1px;
     border-radius: 10px;
-    border-color: #800000;
+    border-color: #001780;
     width: 85%;
     height: 80%;
 }
@@ -46,7 +46,7 @@
     text-align: center;
     font-size: 38px;
     margin: 5% 0%;
-    color: #800000;
+    color: #001780;
 }
 
 .signup-title {
@@ -65,15 +65,15 @@
     padding: 3% 10%;
     font-weight: 400;
     font-size: 20px;
-    background-color: #800000;
-    border-color: #800000;
+    background-color: #001780;
+    border-color: #001780;
 }
 
 /* ####################### Home.php ####################### */
 
 .navbar.bg-light {
     width: 100%;
-    background-color: #800000!important;
+    background-color: #001780!important;
 }
 
 /* Manual color for navbar-brand, activated nav-link and nav-link's focused state */
@@ -131,19 +131,19 @@
 
 .display-card {
     text-align: center;
-    border-color: #800000;
+    border-color: #001780;
 }
 
 .card-header:first-child {
-    border-color: #800000;
+    border-color: #001780;
 }
 
 .table {
-    border: 1px solid #800000;
+    border: 1px solid #001780;
 }
 
 .table > thead > tr > th {
-    border: 1px solid #800000;
+    border: 1px solid #001780;
 }
 
 
@@ -154,15 +154,15 @@
 .btn-action {
     padding: 2% 5%;
     width: 45%;
-    background-color: #800000;
-    border-color: #800000;
+    background-color: #001780;
+    border-color: #001780;
 }
 
 .btn-delete {
     padding: 2% 5%;
     width: 50%;
-    background-color: #800000;
-    border-color: #800000;
+    background-color: #001780;
+    border-color: #001780;
 }
 
 /* ####################### addRecord.php ####################### */
@@ -173,13 +173,13 @@
     padding: 2% 16%;
     border-width: 1px;
     border-radius: 10px;
-    border-color: #800000;
+    border-color: #001780;
 }
 
 .addRecord-title {
     text-align: center;
     padding: 2% 0%;
-    color: #800000;
+    color: #001780;
 }
 
 .home-icon {
@@ -207,8 +207,8 @@
     padding: 2% 10%;
     font-weight: 300;
     font-size: 20px;
-    background-color: #800000;
-    border-color: #800000;
+    background-color: #001780;
+    border-color: #001780;
 }
 
 .back-arrow-item {
@@ -223,10 +223,10 @@
 
 /* ####################### statistics.php ####################### */
 .activated-link {
-    color: #800000!important;
+    color: #001780!important;
     background-color: #fff;
     font-size: 18px;
-    border: 1px solid #800000;
+    border: 1px solid #001780;
     border-radius: 8px;
     padding: 0px 2px;
 }
@@ -242,7 +242,7 @@
 
 .canvas-heading {
     text-align: center;
-    color: #800000;
+    color: #001780;
     font-size: 250%;
     padding-top: 15%;
 }
@@ -255,13 +255,13 @@
     padding: 7% 16%;
     border-width: 1px;
     border-radius: 10px;
-    border-color: #800000;
+    border-color: #001780;
 }
 
 .contactUs-title {
     text-align: center;
     padding: 2% 0%;
-    color: #800000;
+    color: #001780;
 }
 
 .btn-send-message {
@@ -271,7 +271,7 @@
 /* ####################### aboutUs.php ####################### */
 .aboutUs-title {
     text-align: center;
-    color: #800000;
+    color: #001780;
     padding-top: 3%;
 }
 
@@ -300,7 +300,7 @@
 .team-member-name {
     margin-left: auto;
     margin-right: auto;
-    color: #800000;
+    color: #001780;
     padding-top: 3%;
     padding-bottom: 2%;
     font-weight: 330;

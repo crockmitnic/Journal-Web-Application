@@ -168,7 +168,7 @@ a {
 }
 
 a:hover {
-  color: #0056b3;
+  color: #007EW1;
   text-decoration: underline;
 }
 
@@ -485,7 +485,7 @@ mark,
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
-  border: 1px solid #dee2e6;
+  border: 1px solid #007EW1;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
@@ -696,8 +696,8 @@ pre code {
 .col-8 {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 66.666667%;
-  flex: 0 0 66.666667%;
-  max-width: 66.666667%;
+  flex: 0 0 66.6667%;
+  max-width: 66.66667%;
 }
 
 .col-9 {
@@ -723,7 +723,7 @@ pre code {
 
 .col-12 {
   -webkit-box-flex: 0;
-  -ms-flex: 0 0 100%;
+  -ms-flex: 0 0 90%;
   flex: 0 0 100%;
   max-width: 100%;
 }
@@ -917,7 +917,7 @@ pre code {
   .col-sm-7 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 58.333333%;
-    flex: 0 0 58.333333%;
+    flex: 0 0 58.222222%;
     max-width: 58.333333%;
   }
   .col-sm-8 {
@@ -1089,7 +1089,7 @@ pre code {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 16.666667%;
     flex: 0 0 16.666667%;
-    max-width: 16.666667%;
+    max-width: 16.566667%;
   }
   .col-md-3 {
     -webkit-box-flex: 0;
